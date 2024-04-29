@@ -1,0 +1,12 @@
+F003,San Francisco,Tokyo,2024-05-03 14:00,2024-05-03 22:00,100,United Airlines,900,Economy,saif
+F003,San Francisco,Tokyo,2024-05-03 14:00,2024-05-03 22:00,99,United Airlines,900,Business,saif
+F015,Miami,Los Angeles,2024-06-10 18:00,2024-06-10 21:00,160,Frontier Airlines,390,Business,saif
+F003,San Francisco,Tokyo,2024-05-03 14:00,2024-05-03 22:00,98,United Airlines,900,Business,saif
+F011,New York,San Francisco,2024-05-25 12:00,2024-05-25 16:00,160,Delta Air Lines,450,Economy,saif
+F005,Miami,Rome,2024-05-05 18:00,2024-05-05 02:00,130,British Airways,700,First Class,saif
+F010,New York,Miami,2024-05-22 11:00,2024-05-22 14:00,140,JetBlue Airways,380,First Class,saif
+F017,Miami,Chicago,2024-06-15 20:00,2024-06-15 22:30,130,American Airlines,340,First Class,saif
+F009,New York,Los Angeles,2024-05-20 10:00,2024-05-20 13:00,150,Alaska Airlines,420,First Class,saif
+F010,New York,Miami,2024-05-22 11:00,2024-05-22 14:00,139,JetBlue Airways,380,First Class,saif
+F005,Miami,Rome,2024-05-05 18:00,2024-05-05 02:00,129,British Airways,700,Business,saif
+F004,Chicago,Madrid,2024-05-04 16:00,2024-05-04 23:00,110,Lufthansa,850,Business,saif

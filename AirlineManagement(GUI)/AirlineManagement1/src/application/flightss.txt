@@ -1,0 +1,17 @@
+F001,Los Angeles,London,2024-05-01 10:00,2024-05-01 18:00,150,American Airlines,800
+F002,New York,Paris,2024-05-02 12:00,2024-05-02 20:00,117,Delta Air Lines,750
+F003,San Francisco,Tokyo,2024-05-03 14:00,2024-05-03 22:00,96,United Airlines,900
+F004,Chicago,Madrid,2024-05-04 16:00,2024-05-04 23:00,109,Lufthansa,850
+F005,Miami,Rome,2024-05-05 18:00,2024-05-05 02:00,128,British Airways,700
+F006,Los Angeles,New York,2024-05-10 08:00,2024-05-10 11:00,119,JetBlue Airways,400
+F007,Los Angeles,Chicago,2024-05-12 09:00,2024-05-12 11:30,110,Southwest Airlines,300
+F008,Los Angeles,Miami,2024-05-15 12:00,2024-05-15 15:00,130,Frontier Airlines,350
+F009,New York,Los Angeles,2024-05-20 10:00,2024-05-20 13:00,149,Alaska Airlines,420
+F010,New York,Miami,2024-05-22 11:00,2024-05-22 14:00,138,JetBlue Airways,380
+F011,New York,San Francisco,2024-05-25 12:00,2024-05-25 16:00,159,Delta Air Lines,450
+F012,Chicago,Los Angeles,2024-05-30 14:00,2024-05-30 17:00,170,United Airlines,480
+F013,Chicago,Miami,2024-06-01 15:00,2024-06-01 18:00,139,Southwest Airlines,360
+F014,Chicago,Dallas,2024-06-05 16:00,2024-06-05 17:30,100,American Airlines,280
+F015,Miami,Los Angeles,2024-06-10 18:00,2024-06-10 21:00,159,Frontier Airlines,390
+F016,Miami,New York,2024-06-12 19:00,2024-06-12 22:00,150,JetBlue Airways,370
+F017,Miami,Chicago,2024-06-15 20:00,2024-06-15 22:30,129,American Airlines,340
